@@ -1,0 +1,39 @@
+.trigger-button {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  padding: 0px;
+  margin-left: 15px;
+  outline: none;
+}
+
+.popup-content {
+  width: 50%;
+  border-width: 0px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.responsive-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.close-trigger-button {
+  align-self: flex-end;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  border-width: 0px;
+}
+
+.icon-styles {
+  height: 20px;
+  width: 20px;
+}
